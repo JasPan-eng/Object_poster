@@ -1,0 +1,68 @@
+body {
+  background-color: #c2d1f0;
+  background-size: cover;
+  position: fixed;
+
+}
+
+.sidebar {
+  position: absolute;
+  left: -345px;
+  top: -55px;
+}
+
+
+
+.bar1 {
+  position: absolute;
+  left: 150px;
+  top: 400px;
+}
+
+.bar2 {
+  position: absolute;
+  left: 300px;
+  top: 400px;
+}
+
+.kurta {
+  position: absolute;
+  left: 900px;
+  top: 110px;
+}
+.bar3 {
+  position: absolute;
+  left: 450px;
+  top: 400px;
+}
+
+h1 {
+  font-family: serif;
+  font-size: 40px;
+  margin: 50px;
+  padding: 80px;
+  position: relative;
+  left: 80px;
+  top: 90px;
+
+}
+
+h2 {
+  font-family: serif;
+  font-size: 40px;
+  margin: 50px;
+  padding: 80px;
+  position: relative;
+  left: 80px;
+  top: -110px;
+}
+
+
+a {
+  position: relative;
+  top: 0px;
+  left: 65px;
+  font-family: serif;
+  font-size: 50px;
+
+}
